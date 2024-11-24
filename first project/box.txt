@@ -1,1 +1,2 @@
-hi all wlcome to the
+hi all wlcome to the git class
+  git is very easy to learn.
